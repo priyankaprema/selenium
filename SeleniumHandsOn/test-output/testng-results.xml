@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-09T16:23:31 IST" name="Suite" finished-at="2021-02-09T16:25:25 IST" duration-ms="113882">
+    <groups>
+    </groups>
+    <test started-at="2021-02-09T16:23:31 IST" name="Test" finished-at="2021-02-09T16:25:25 IST" duration-ms="113882">
+      <class name="orangeHRM.FileUpload">
+        <test-method is-config="true" signature="initiateDriver()[pri:0, instance:orangeHRM.FileUpload@71cf1b07]" started-at="2021-02-09T16:23:34 IST" name="initiateDriver" finished-at="2021-02-09T16:23:36 IST" duration-ms="2179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method signature="fileUpload()[pri:0, instance:orangeHRM.FileUpload@71cf1b07]" started-at="2021-02-09T16:24:47 IST" name="fileUpload" finished-at="2021-02-09T16:25:08 IST" duration-ms="20619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fileUpload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:orangeHRM.FileUpload@71cf1b07]" started-at="2021-02-09T16:25:08 IST" name="tearDown" finished-at="2021-02-09T16:25:08 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- orangeHRM.FileUpload -->
+      <class name="orangeHRM.UserCount">
+        <test-method is-config="true" signature="initiateDriver()[pri:0, instance:orangeHRM.UserCount@1d131e1b]" started-at="2021-02-09T16:23:41 IST" name="initiateDriver" finished-at="2021-02-09T16:23:45 IST" duration-ms="3579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method signature="userEnabledStatusCount()[pri:0, instance:orangeHRM.UserCount@1d131e1b]" started-at="2021-02-09T16:24:32 IST" name="userEnabledStatusCount" finished-at="2021-02-09T16:24:47 IST" duration-ms="15239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userEnabledStatusCount -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:orangeHRM.UserCount@1d131e1b]" started-at="2021-02-09T16:25:25 IST" name="tearDown" finished-at="2021-02-09T16:25:25 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- orangeHRM.UserCount -->
+      <class name="orangeHRM.SearchLeave">
+        <test-method is-config="true" signature="initiateDriver()[pri:0, instance:orangeHRM.SearchLeave@3e821657]" started-at="2021-02-09T16:23:39 IST" name="initiateDriver" finished-at="2021-02-09T16:23:41 IST" duration-ms="2792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method signature="selectLeave()[pri:0, instance:orangeHRM.SearchLeave@3e821657]" started-at="2021-02-09T16:24:06 IST" name="selectLeave" finished-at="2021-02-09T16:24:32 IST" duration-ms="26039" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLeave -->
+      </class> <!-- orangeHRM.SearchLeave -->
+      <class name="orangeHRM.ResumeDownload">
+        <test-method is-config="true" signature="initiateDriver()[pri:0, instance:orangeHRM.ResumeDownload@2f17e30d]" started-at="2021-02-09T16:23:36 IST" name="initiateDriver" finished-at="2021-02-09T16:23:39 IST" duration-ms="2303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method signature="resumeDownload()[pri:0, instance:orangeHRM.ResumeDownload@2f17e30d]" started-at="2021-02-09T16:23:45 IST" name="resumeDownload" finished-at="2021-02-09T16:24:06 IST" duration-ms="21064" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resumeDownload -->
+      </class> <!-- orangeHRM.ResumeDownload -->
+      <class name="orangeHRM.DeleteUser">
+        <test-method is-config="true" signature="initiateDriver()[pri:0, instance:orangeHRM.DeleteUser@615091b8]" started-at="2021-02-09T16:23:31 IST" name="initiateDriver" finished-at="2021-02-09T16:23:34 IST" duration-ms="2737" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriver -->
+        <test-method signature="deleteUser()[pri:0, instance:orangeHRM.DeleteUser@615091b8]" started-at="2021-02-09T16:25:08 IST" name="deleteUser" finished-at="2021-02-09T16:25:25 IST" duration-ms="17143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUser -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:orangeHRM.DeleteUser@615091b8]" started-at="2021-02-09T16:25:25 IST" name="tearDown" finished-at="2021-02-09T16:25:25 IST" duration-ms="41" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- orangeHRM.DeleteUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
